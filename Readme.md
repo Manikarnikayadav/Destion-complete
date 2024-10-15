@@ -63,8 +63,9 @@ Logout: Users can log out, which clears their session token.
 
 # Setup Instructions
 1. Clone the repository:
-git clone https://github.com/your-username/auth-app.git
+git clone https://github.com/Manikarnikayadav/Destion-complete/auth-app.git
 cd auth-app
+
 
 2. Install frontend dependencies:
 cd client
